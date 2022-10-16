@@ -38,6 +38,7 @@
 		C3BAADEA28FC5B110024BFC8 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADE928FC5B110024BFC8 /* ProfileHost.swift */; };
 		C3BAADEC28FC5BAC0024BFC8 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADEB28FC5BAC0024BFC8 /* ProfileSummary.swift */; };
 		C3BAADEE28FC5E500024BFC8 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADED28FC5E500024BFC8 /* HikeBadge.swift */; };
+		C3BAADF028FC6F000024BFC8 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADEF28FC6F000024BFC8 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		C3BAADE928FC5B110024BFC8 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		C3BAADEB28FC5BAC0024BFC8 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		C3BAADED28FC5E500024BFC8 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		C3BAADEF28FC6F000024BFC8 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 			children = (
 				C3BAADE928FC5B110024BFC8 /* ProfileHost.swift */,
 				C3BAADEB28FC5BAC0024BFC8 /* ProfileSummary.swift */,
+				C3BAADEF28FC6F000024BFC8 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				C20D780B24B68B4D002E7AEA /* LandmarkList.swift in Sources */,
 				C2C583A824DB778400DD0019 /* ContentView.swift in Sources */,
 				C20D781424B6A662002E7AEA /* BadgeBackground.swift in Sources */,
+				C3BAADF028FC6F000024BFC8 /* ProfileEditor.swift in Sources */,
 				C2FEB32824B7B498004FAB73 /* CategoryHome.swift in Sources */,
 				C20D77EE24B665D7002E7AEA /* LandmarksApp.swift in Sources */,
 				C20D780124B6846F002E7AEA /* LandmarkRow.swift in Sources */,
