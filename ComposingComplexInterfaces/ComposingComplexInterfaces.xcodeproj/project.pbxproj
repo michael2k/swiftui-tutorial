@@ -161,8 +161,8 @@
 		C20D780C24B68CFD002E7AEA /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				C3BAADDF28FC3F050024BFC8 /* Categories */,
 				C2C583AF24DB7C0000DD0019 /* ContentView.swift */,
+				C3BAADDF28FC3F050024BFC8 /* Categories */,
 				C2FEB33024B7C8F2004FAB73 /* Landmarks */,
 				C20D781924B6CA56002E7AEA /* Badges */,
 				C20D781E24B6CCB6002E7AEA /* Hikes */,
