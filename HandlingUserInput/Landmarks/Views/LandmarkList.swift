@@ -8,10 +8,11 @@ A view showing a list of landmarks.
 import SwiftUI
 
 struct LandmarkList: View {
+    @EnvironmentObject var modelData: ModelData
     @State private var showFacoriteOnly = false
     
     var filteredLandmarks: [Landmark] {
-        landmarks.filter { Landmark in
+        modelData.landmarks.filter { Landmark in
             (!showFacoriteOnly || Landmark.isFavorite )
         }
     }
@@ -38,5 +39,6 @@ struct LandmarkList: View {
 struct LandmarkList_Previews: PreviewProvider {
     static var previews: some View {
         LandmarkList()
+            .environmentObject(ModelData())
     }
 }
