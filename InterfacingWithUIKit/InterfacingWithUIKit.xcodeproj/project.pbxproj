@@ -42,6 +42,7 @@
 		C3BAADF328FCC2300024BFC8 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADF228FCC2300024BFC8 /* PageViewController.swift */; };
 		C3BAADF528FCC50F0024BFC8 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADF428FCC50F0024BFC8 /* FeatureCard.swift */; };
 		C3BAADF728FCC8810024BFC8 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADF628FCC8810024BFC8 /* PageView.swift */; };
+		C3BAADF928FD7D830024BFC8 /* PgeControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BAADF828FD7D830024BFC8 /* PgeControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		C3BAADF228FCC2300024BFC8 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		C3BAADF428FCC50F0024BFC8 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		C3BAADF628FCC8810024BFC8 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		C3BAADF828FD7D830024BFC8 /* PgeControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PgeControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -260,6 +262,7 @@
 				C3BAADF228FCC2300024BFC8 /* PageViewController.swift */,
 				C3BAADF428FCC50F0024BFC8 /* FeatureCard.swift */,
 				C3BAADF628FCC8810024BFC8 /* PageView.swift */,
+				C3BAADF828FD7D830024BFC8 /* PgeControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 				C2FEB34324B7D935004FAB73 /* ProfileEditor.swift in Sources */,
 				C20D781024B6A3B1002E7AEA /* HexagonParameters.swift in Sources */,
 				C20D780524B684EC002E7AEA /* ModelData.swift in Sources */,
+				C3BAADF928FD7D830024BFC8 /* PgeControl.swift in Sources */,
 				C20D781224B6A3E7002E7AEA /* Badge.swift in Sources */,
 				C20D77F024B665D7002E7AEA /* LandmarkDetail.swift in Sources */,
 				C20D77FF24B67FB3002E7AEA /* MapView.swift in Sources */,
